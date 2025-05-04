@@ -1,0 +1,11 @@
+.cl-element[data-testid="element-text-panel_message"] {
+    position: fixed;
+    top: 60px;
+    right: 10px;
+    width: 300px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
